@@ -8,8 +8,7 @@
 
 @font-face {
     font-family: 'cyberpunkwaifus';
-    src: url('fonts/CyberpunkWaifus.ttf') format('ttf'),
-         url('fonts/CyberpunkWaifus.woff') format('woff');
+    src: url('fonts/CyberpunkWaifus.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     }
