@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'ashburylig';
+    src: url('fonts/ashburylig-webfont.woff2') format('woff2'),
+         url('fonts/ashburylig-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+body {
+    padding: 400px 0;
+    background-color:black;
+    text-align: center;
+    font-family: 'ashburylig';
+    color: white;
+  }
+
