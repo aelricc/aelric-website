@@ -6,11 +6,23 @@
     font-style: normal;
     }
 
+@font-face {
+    font-family: 'cyberpunkwaifus';
+    src: url('fonts/CyberpunkWaifus.ttf') format('ttf'),
+         url('fonts/CyberpunkWaifus.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    }
+
 body {
     padding: 300px 0;
     background-color:black;
     text-align: center;
-    font-family: 'ashburylig';
+    font-family: 'cyberpunkwaifus';
     color: white;
   }
+
+h1{
+    font-family: 'ashburylig';
+}
 
