@@ -13,6 +13,30 @@
     font-style: normal;
     }
 
+a:link {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 body {
     padding: 300px 0;
     background-color:black;
@@ -26,6 +50,8 @@ h1{
 }
 
 .links{
-    display:inline-block;
+    border: 1px solid white;
+    display: inline-block;
+    padding: 20px;
 }
 
